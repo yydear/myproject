@@ -1,0 +1,4 @@
+﻿  aes.cpp
+C:\Users\17615\Desktop\project\project9\AES\AES\aes.cpp(87,20): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\17615\Desktop\project\project9\AES\AES\aes.cpp(280,22): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  AES.vcxproj -> C:\Users\17615\Desktop\project\project9\AES\x64\Debug\AES.exe
